@@ -1,1 +1,1 @@
-#Resume Screener App
+#Resume Screener
